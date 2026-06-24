@@ -1,0 +1,13 @@
+# Fichiers systeme
+Thumbs.db
+.DS_Store
+
+# Editeurs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Config locale eventuelle (si un jour tu separes les mots de passe)
+config.local.php
