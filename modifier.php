@@ -62,7 +62,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <header class="topbar">
         <h1>Modifier un professeur</h1>
-        <h1>Modifier un etudiant</h1>
     </header>
 
     <main class="container">
