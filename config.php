@@ -5,9 +5,9 @@
 // Sous WAMP par defaut : utilisateur "root" et mot de passe vide.
 
 $host   = 'localhost';
-$dbname = 'gestion_eleves';
+$dbname = 'database'; // Remplacez par le nom de votre base de donnees
 $user   = 'root';
-$pass   = '';
+$pass   = '8900';
 
 try {
     $pdo = new PDO(
